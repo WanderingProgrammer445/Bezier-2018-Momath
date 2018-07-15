@@ -1,7 +1,7 @@
-# MoMath Hackathon 2018: Project name
+# MoMath Hackathon 2018: Bézier Curve 2018
 
-- Project category (one of Augmented Reality, _Math Square behavior_, _Dynamic Wall behavior_, or _Math Exploration_)
-- Team members
+- _Math Square behavior_
+- Micah Lorenz, Henry Zhou, May Lee
 
 ## The Math
 
