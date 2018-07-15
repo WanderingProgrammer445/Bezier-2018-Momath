@@ -1,1 +1,1 @@
-# Bezier-2018-Momath
+# MoMath Hackathon 2018: Bézier Curve
